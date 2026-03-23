@@ -2,7 +2,11 @@
 
 **`Front-End Developer`**
 
-Sou um Desenvolvedor Front-End focado em criar aplicações web modernas, performáticas e intuitivas utilizando tecnologias como React, Angular, JavaScript, HTML e CSS. Minha jornada na tecnologia é pautada pela disciplina e resolução de problemas. Atualmente estou em busca da primeira oportunidade de trabalho**. Sigo desenvolvendo minhas habilidades de programação diariamente. Sou graduando em Sistemas de Informação pela UNINASSAU.
+👋 Olá, sou o Eduardo Guilherme!
+
+Desenvolvedor Front-End em constante evolução e graduando em Sistemas de Informação pela UNINASSAU. Minha abordagem une a precisão da lógica de programação com a criação de interfaces modernas, performáticas e acessíveis.
+
+Acredito que o código é uma ferramenta para resolver problemas reais. Por isso, foco em tecnologias como React, JavaScript e ecossistema Web, sempre pautado pela disciplina e pelo aprendizado contínuo. Atualmente, busco minha primeira oportunidade para aplicar esse conhecimento em projetos desafiadores.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/eduardo-guilherme-5b41a9266/">
