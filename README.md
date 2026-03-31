@@ -87,18 +87,3 @@ Acredito que o código é uma ferramenta para resolver problemas reais. Por isso
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<div align="center">
-  <img 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Eduardo-Guilherme-Medeiros-Antonino&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    alt="GitHub Stats" 
-  />
-  <img 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Guilherme-Medeiros-Antonino&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
-    alt="Top Langs" 
-  />
-</div>
